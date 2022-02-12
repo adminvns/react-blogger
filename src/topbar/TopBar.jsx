@@ -20,7 +20,7 @@ export default function TopBar() {
                 <li className='topListItem'>LOGOUT</li>
             </ul></div>
         <div className='topRight'>
-        <img className='topImage' src='https://images.ctfassets.net/23aumh6u8s0i/2pxitsliEwXLe6LhXYrcBB/e17a6246514c9e1724fe2129857310fb/thief-2' alt='profile picture'></img>
+        <img className='topImage' src='https://images.ctfassets.net/23aumh6u8s0i/2pxitsliEwXLe6LhXYrcBB/e17a6246514c9e1724fe2129857310fb/thief-2' alt=''></img>
         <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
     </div></div>
   )
